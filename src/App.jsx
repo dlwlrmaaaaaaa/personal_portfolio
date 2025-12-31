@@ -15,7 +15,7 @@ function App() {
         <NavBar/>
         <Hero/>
       </main>
-
+    {/* Sample comment */}
       <section className='gray-secondary-bg py-20'>
         <Projects/>
       </section>
